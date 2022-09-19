@@ -1,19 +1,19 @@
 Algoritmo "Exercicio 1 Numero sucessor"
-// Disciplina   : [Lógica de Programação e jav script]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o e jav script]
 // Professor   : Jailson
-// Descrição   : exibir como resposta o número sucessordo numero digitado
-// Autor(a)    : Núbia
+// DescriÃ§Ã£o   : exibir como resposta o nÃºmero sucessordo numero digitado
+// Autor(a)    : NÃºbia
 // Data atual  : 31/08/2022
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 numero1:inteiro
 suceder:inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-Escreval("Digite um número :")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+Escreval("Digite um nÃºmero :")
 Leia(numero1)
-suceder <-numero1 n+1 numero2
+suceder <-numero1 n+1 
 Escreval("exibir a sucessao do numero  :",suceder)
 
 Fimalgoritmo
